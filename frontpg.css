@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(0, 3, 3);
+}
+h1{
+    background-color: rgb(235, 240, 240);
+    color: rgb(12, 14, 17);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
+}
+button{
+    background-color: rgb(244, 226, 241);
+    color: rgb(13, 16, 19);
+    font-size: 3vw;
+    font-size: 'sans-serif';
+    border-radius: 1vw;
+
+    margin-top: 15vw;
+    
+    
+    
+    margin-left: 15%;
+}
+a {
+    color: rgb(244, 226, 241);
+    
+}
